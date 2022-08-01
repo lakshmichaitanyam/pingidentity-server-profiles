@@ -1,0 +1,14 @@
+ID=00216236
+WSTrustSTS=true
+OAuth=true
+SaasProvisioning=true
+Product=PingFederate
+Version=10.1
+EnforcementType=3
+Tier=Subscription
+IssueDate=2021-06-30
+ExpirationDate=2024-02-01
+DeploymentMethod=Traditional
+Organization=Intuit Inc.
+SignCode=FF0F
+Signature=302C0214423A75AC902BD053445FCABE54851B11A28C36B102144DE2788DE928A8F5CD005318C1FDC6EAB93A4CE5
